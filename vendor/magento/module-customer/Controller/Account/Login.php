@@ -44,7 +44,7 @@ class Login extends \Magento\Customer\Controller\AbstractAccount
      */
     public function execute()
     {
-        $test = "Hello";
+        
         if ($this->session->isLoggedIn()) {
             /** @var \Magento\Framework\Controller\Result\Redirect $resultRedirect */
             $resultRedirect = $this->resultRedirectFactory->create();
