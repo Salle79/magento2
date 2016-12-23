@@ -1,4 +1,9 @@
 # All explanations you could find in .htaccess.sample file
+############################################
+## overrides deployment configuration mode value
+## use command bin/magento deploy:mode:set to switch modes
+SetEnv MAGE_MODE developer
+
 DirectoryIndex index.php
 <IfModule mod_php5.c>
     php_value memory_limit 768M
