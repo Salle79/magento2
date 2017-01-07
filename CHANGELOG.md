@@ -1,11 +1,10 @@
-2dfgdfdfgfdgg.1.1sdfsdfHELLO MYDHFHFHF
-==========================sadsadddsfdsfdfgfgfdg
-2dfgdfdfgfdgg.1.1
-=======================dsf===sadsaddfdgggdfd
-To get detailed information about changes in Magento 2.1.1, please visit [Magento Community Edition (CE) Release Notes](http://devdocs.magento.com/guides/v2.1/release-notes/ReleaseNotes2.1.1CE.html "Magento Community Edition (CE) Release Notes")
+2dfgdfdfgfdgg.1.1sdfsdfsdfdsffsdfds
+==========================sadsadddsfdsfsdfdsdsfdsfddfgfgfdgsdfdsf
+2dfgdfdfgfdgg.1.1dsfdsffsdfdsfdsdsfdsfsdfds
+=======================dsf===sadsaddfdgggdfdsdfdsfdsfsdsdfsdffsdfdsfsffsd/release-notes/ReleaseNotes2.1.1CE.html "Magento Community Edition (CE) Release Notesfsdfsddsfsdfdsfdsf")fsdfdsfs
 
-2.1.0
-=============
+2.1.0sfsdfd
+=============sdfdsfdsfds
 To get detailed information about changes in Magento 2.1.0, please visit [Magento Community Edition (CE) Release Notes](http://devdocs.magento.com/guides/v2.1/release-notes/ReleaseNotes2.1.0CE.html "Magento Community Edition (CE) Release Notes")
 
 2.0.0
